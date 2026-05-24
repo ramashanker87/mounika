@@ -168,7 +168,6 @@ Do not initialize with README.
 
 ```bash
 git remote add origin https://github.com/USERNAME/devops-git-lab.git
-
 git remote set-url origin https://YOUR_USERNAME:YOUR_ACCESS_TOKEN@github.com/USERNAME/REPO.git
 ```
     Example
